@@ -1,1 +1,2 @@
 a06d0e39-40e2-414a-9ae8-963e35fa3e4f autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-SUIT/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1712988524.482855s
+f3334a79-3a4a-47b3-959e-dca873518175 autoenable=true location=https://gin.g-node.org/templateflow/tpl-SUIT name=gin-src type=git timestamp=1713172522.792418s
